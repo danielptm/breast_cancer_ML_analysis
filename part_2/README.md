@@ -17,6 +17,9 @@ https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands
 ```
 
 ## Part 2
+```Assignment description
+https://gatech.instructure.com/courses/171620/assignments/679588
+```
 
 ```
 data is from here: http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
