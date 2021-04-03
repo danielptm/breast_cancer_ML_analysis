@@ -1,28 +1,23 @@
 ## To start jupyter notebook
 
-To start
+#### Prerequisites
+1. Install python3
+2. Install jupyter notebooks for python3
+
+
+## Steps to run this notebook
+1. Clone the repo
+```
+git clone https://github.com/danielptm/breast_cancer_ML_analysis.git
+```
+2. Cd into the project folder
+```
+cd breast_cancer_ML_analysis/part_2
+```
+3. Start notebook
 ```
 python3 -m notebook
 ```
 
-To know what to do
-```
-https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/
-```
-
-To have a theoretical background from udemy
-```
-View decision trees in the udemy data science course
-https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/learn/lecture/4020572#overview
-```
-
-## Part 2
-```Assignment description
-https://gatech.instructure.com/courses/171620/assignments/679588
-```
-
-```
-data is from here: http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
-
-file is in data_folder/breast-cancer-wisconsin.data
-```
+4. Select correct notebook by clicking on par2.ipynb
+5. Click the run button for each step to see the analysis.
